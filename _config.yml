@@ -110,3 +110,10 @@ sitemap:
   rel: false
   tags: true
   categories: false
+
+feed:
+  enable: true
+  type:
+    - atom
+    - rss2
+  autodiscovery: true
