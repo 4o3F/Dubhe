@@ -105,8 +105,8 @@ deploy:
 
 sitemap:
   path:
-    - sitemap.xml
-    - sitemap.txt
+    - /seo/sitemap.xml
+    - /seo/sitemap.txt
   rel: false
   tags: true
   categories: false
@@ -116,4 +116,7 @@ feed:
   type:
     - atom
     - rss2
+  path:
+    - /feed/atom.xml
+    - /feed/rss2.xml
   autodiscovery: true

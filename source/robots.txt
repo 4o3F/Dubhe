@@ -3,4 +3,5 @@ Allow: /
 Allow: /archives/
 Allow: /tags/
 Allow: /about/
-Sitemap: https://lykorisr.fun/sitemap.xml
+Sitemap: https://lykorisr.fun/seo/sitemap.xml
+Sitemap: https://lykorisr.fun/seo/sitemap.txt
