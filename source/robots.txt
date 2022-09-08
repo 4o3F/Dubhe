@@ -3,5 +3,6 @@ Allow: /
 Allow: /archives/
 Allow: /tags/
 Allow: /about/
+Disallow: /cdn-cgi/
 Sitemap: https://lykorisr.fun/sitemap.xml
 Sitemap: https://lykorisr.fun/sitemap.txt
