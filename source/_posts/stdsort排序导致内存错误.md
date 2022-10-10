@@ -1,10 +1,11 @@
 ---
-title: std::sort排序导致内存错误
+title: 'std::sort排序导致内存错误'
 tags:
-- OI
-- C++
-date: 2022-10-09 00:00:00
+  - OI
+  - C++
 cover: /img/archives/sortmemoryerror.jpg
+abbrlink: 39408
+date: 2022-10-09 00:00:00
 ---
 实例代码如下
 ```C++

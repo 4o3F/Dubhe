@@ -1,10 +1,11 @@
 ---
 title: NPU第三届探索解密趣味密码比赛WriteUp
 tags:
-- CTF
-- MISC
-date: 2022-09-017 00:00:00
+  - CTF
+  - MISC
+date: '2022-09-017 00:00:00'
 cover: /img/archives/ctfqwqcc.jpg
+abbrlink: 25320
 ---
 
 > 这是我第一次打CTF，所以也没啥成绩，各位权当一乐

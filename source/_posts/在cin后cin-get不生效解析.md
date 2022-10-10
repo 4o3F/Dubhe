@@ -3,8 +3,9 @@ title: 在cin后cin.get不生效问题解析
 tags:
   - C++
   - ACM
-date: 2022-09-09 21:57:30
 cover: /img/archives/cinget.jpg
+abbrlink: 1222
+date: 2022-09-09 21:57:30
 ---
 > 来源: [https://stackoverflow.com/questions/45201034/why-does-the-program-skip-cin-get-after-a-cin](https://stackoverflow.com/questions/45201034/why-does-the-program-skip-cin-get-after-a-cin)
 
